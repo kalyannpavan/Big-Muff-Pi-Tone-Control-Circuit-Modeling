@@ -5,7 +5,8 @@
 ## 🎚️ Big Muff Pi Tone Control Circuit  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/50ad43d8-4a45-4001-bc94-2436106537f7" alt="Big Muff Pi Tone Control Circuit">
+  <img src="![image](https://github.com/user-attachments/assets/1c69ff6d-eabb-4410-be08-64af6f6573aa)
+">
 </p>  
 
 ---
