@@ -88,7 +88,7 @@ This project involves designing and **digitally replicating** the **Big Muff Pi 
 
 ### 📟 **Circuit Schematic**  
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/694f78bd-f71d-43de-a20e-4fa7e268649d)
+  <img src="https://github.com/user-attachments/assets/694f78bd-f71d-43de-a20e-4fa7e268649d
 ">
 </p>  
 
@@ -96,19 +96,15 @@ This project involves designing and **digitally replicating** the **Big Muff Pi 
 
 ### 📊 **Frequency Response Plot (OCTAVE)**  
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/220f29af-e19c-4b83-921a-3a95790fa104)
-">
+  <img src="https://github.com/user-attachments/assets/220f29af-e19c-4b83-921a-3a95790fa104" alt="Image 1">
 </p>  
 
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/8916620b-e419-4f38-88f8-19518d19953f)
-">
+  <img src="https://github.com/user-attachments/assets/8916620b-e419-4f38-88f8-19518d19953f" alt="Image 2">
 </p> 
 
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/d13bb797-d0b2-48c2-af8a-bab428d807f2)
-
-">
+  <img src="https://github.com/user-attachments/assets/d13bb797-d0b2-48c2-af8a-bab428d807f2" alt="Image 3">
 </p> 
 
 ---
