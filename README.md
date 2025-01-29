@@ -88,11 +88,11 @@ This project involves designing and **digitally replicating** the **Big Muff Pi 
 
 ### 📟 **Circuit Schematic**  
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/694f78bd-f71d-43de-a20e-4fa7e268649d
-">
+  <img src="https://github.com/user-attachments/assets/694f78bd-f71d-43de-a20e-4fa7e268649d" alt="Circuit Schematic">
 </p>  
 
 ---
+
 
 ### 📊 **Frequency Response Plot (OCTAVE)**  
 <p align="center">
