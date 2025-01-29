@@ -1,4 +1,4 @@
-# 🎸 Digital Audio Plugin for Big Muff Pi Tone Control Circuit | JUCE, HISE  
+# 🎸 Digital Audio Plugin for Big Muff Pi Tone Control Stage Circuit 
 
 ---
 
